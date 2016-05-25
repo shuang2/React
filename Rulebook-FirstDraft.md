@@ -23,9 +23,9 @@ In order to start an attack chain it costs 1 energy. That is to say, in order to
 ## Basic Combat
 When the attacker attacks they choose one action as well. If they win the other player loses one life. However, if the defender wins the pick they are not able to hit the attacker, they merely negate the attack and gain the opportunity to counter attack if they choose to. However, if the attacker hit’s the attack they have another chance to attack again. Defender wins in the case of ties as the attacks counter each other. (Note that this does not apply to charge) 
 
-    There are 3 advanced options, these options cost energy. The first two of these actions are Block and Charge. Like the other three options these options wins against 2 other options and wins against 2 other options. These options are special. You cannot attack with a block and you cannot defend with a charge. Attacking with a charge takes 1 more energy than normal, increasing the attack cost to 2. Winning with a charge deals 2 damage and decreases the energy cost of the next attack by 1. Winning with a block will gain the defender 1 energy. 
+There are 3 advanced options, these options cost energy. The first two of these actions are Block and Charge. Like the other three options these options wins against 2 other options and wins against 2 other options. These options are special. You cannot attack with a block and you cannot defend with a charge. Attacking with a charge takes 1 more energy than normal, increasing the attack cost to 2. Winning with a charge deals 2 damage and decreases the energy cost of the next attack by 1. Winning with a block will gain the defender 1 energy. 
 
-    The last action is dodge. Dodge cost 3 energy to use. Dodge is a defensive action and cannot hit. When you dodge you immediately gain initiative and counter the opposing attack. 
+The last action is dodge. Dodge cost 3 energy to use. Dodge is a defensive action and cannot hit. When you dodge you immediately gain initiative and counter the opposing attack. 
 
 Example 1: Attacker chooses punch and defender chooses kick. Defender takes one damage. Attacker gains initiative. 
 
@@ -39,7 +39,7 @@ Example 4: Attacker chooses punch defender dodges. Defender gains initiative.
 Using any attack will put it on cooldown of 10 seconds. Whenever a player is hit, all attacks that they have on cooldown have their cooldown increased by 3. 
 
 ## Characters: 
-    Each character will have a unique ability. Normally a constant effect. They will also have 2 unique actions. One is a free action (costs 0) and one special action (costs 1 or more). Also each character will have a finisher attack, costing 7 energy. 
+Each character will have a unique ability. Normally a constant effect. They will also have 2 unique actions. One is a free action (costs 0) and one special action (costs 1 or more). Also each character will have a finisher attack, costing 7 energy. 
 
 Basic Character – Binam:
 Unique ability – None
